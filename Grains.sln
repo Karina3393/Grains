@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grains", "Grains\Grains.csproj", "{B571A860-DA49-4EA5-B115-85A6D2EE7ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B571A860-DA49-4EA5-B115-85A6D2EE7ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B571A860-DA49-4EA5-B115-85A6D2EE7ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B571A860-DA49-4EA5-B115-85A6D2EE7ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B571A860-DA49-4EA5-B115-85A6D2EE7ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBCF66C2-22F7-4D26-9A61-704FD3BF9B3B}
+	EndGlobalSection
+EndGlobal
